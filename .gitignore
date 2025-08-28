@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+dist/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Email logs
+email-logs/
+.vercel
